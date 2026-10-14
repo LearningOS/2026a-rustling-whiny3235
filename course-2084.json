@@ -2,7 +2,7 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-whiny3235",
-  "commit": "ef0702aa11d0ead8306e07efae569964c73c067d",
+  "commit": "bae7b49d0b719a9d133068587d649dc4a081020d",
   "score": 31,
   "totalScore": 110,
   "exercises": [
@@ -778,9 +778,9 @@
     }
   ],
   "student": "whiny3235",
-  "runId": "38561861248",
+  "runId": "38562120990",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
