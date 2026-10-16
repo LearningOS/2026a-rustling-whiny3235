@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-whiny3235",
-  "commit": "6b2f26439dc6463954e498d382a9590f16d7e7e2",
-  "score": 60,
+  "commit": "e35237d0eb73dc97c8a5d47bcd8f9a83b46a2061",
+  "score": 63,
   "totalScore": 110,
   "exercises": [
     {
@@ -429,23 +429,23 @@
     {
       "name": "traits3",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "traits4",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "traits5",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "quiz3",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "whiny3235",
-  "runId": "38722957683",
+  "runId": "38913232209",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
